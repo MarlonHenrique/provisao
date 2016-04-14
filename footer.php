@@ -1,4 +1,4 @@
-<div class="cabecalho">
+<div class="rodape">
 	<div class="container">
 		<p>	Projetado por <a href="https://twitter.com/luzenk153">@Luzenk153</a> com orientação do mestre André Murilo. </p>
 		<p>Facebook: <a href="https://www.facebook.com/Luzenk153">Marlon Henrique da Silva</a></p>

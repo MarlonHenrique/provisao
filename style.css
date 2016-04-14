@@ -85,13 +85,13 @@ h4{
 }
 
 /*Começo cabeçalho*/
-.cabecalho{
+.rodape{
     background-color: #000;
 	margin-top: 20px;
 	padding: 20px;
 }
  
- .cabecalho .container p{
+ .rodape .container p{
  	color: white;
  	text-align: center;
  	
