@@ -1,0 +1,129 @@
+body{
+		background: rgba(147,206,222,1);
+background: -moz-linear-gradient(left, rgba(147,206,222,1) 0%, rgba(117,189,209,1) 41%, rgba(73,165,191,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(147,206,222,1)), color-stop(41%, rgba(117,189,209,1)), color-stop(100%, rgba(73,165,191,1)));
+background: -webkit-linear-gradient(left, rgba(147,206,222,1) 0%, rgba(117,189,209,1) 41%, rgba(73,165,191,1) 100%);
+background: -o-linear-gradient(left, rgba(147,206,222,1) 0%, rgba(117,189,209,1) 41%, rgba(73,165,191,1) 100%);
+background: -ms-linear-gradient(left, rgba(147,206,222,1) 0%, rgba(117,189,209,1) 41%, rgba(73,165,191,1) 100%);
+background: linear-gradient(to right, rgba(147,206,222,1) 0%, rgba(117,189,209,1) 41%, rgba(73,165,191,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#93cede', endColorstr='#49a5bf', GradientType=1 );
+}
+
+h1{
+	color: #000;
+	text-align: center;
+}
+
+p{
+	color:#000;
+}
+/*logo inicio*/
+.logo-home{
+	width:100%;
+	text-align: center;
+
+}
+
+.logo-home img{
+	max-width: 250px;
+	height: auto;
+}
+
+
+/*fim logo*/
+
+/*Botoes logo*/
+
+.botoes-logo{
+	text-align: center;
+
+}
+
+div .botoes-logo{
+	margin-top: 100px;
+	margin-bottom: 100px;
+background: rgba(255,255,255,1);
+background: -moz-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 19%, rgba(237,237,237,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255,255,255,1)), color-stop(19%, rgba(246,246,246,1)), color-stop(100%, rgba(237,237,237,1)));
+background: -webkit-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 19%, rgba(237,237,237,1) 100%);
+background: -o-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 19%, rgba(237,237,237,1) 100%);
+background: -ms-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 19%, rgba(237,237,237,1) 100%);
+background: linear-gradient(to right, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 19%, rgba(237,237,237,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ededed', GradientType=1 );
+
+padding: 20px;
+}
+
+div .btn{
+	margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+
+}
+
+/*fim Botoes logo */
+
+/*banner home*/
+#owl-banner-home .item img{
+    display: block;
+    width: 100%;
+    height: 315px;
+}
+
+.owl-theme .owl-controls .owl-buttons div {
+
+}
+.owl-theme .owl-controls .owl-buttons div.owl-prev {
+
+}
+.owl-theme .owl-controls .owl-buttons div.owl-next {
+
+}
+/*fim banner home*/
+h4{
+	text-align: center;
+}
+
+/*Começo cabeçalho*/
+.cabecalho{
+    background-color: #000;
+	margin-top: 20px;
+	padding: 20px;
+}
+ 
+ .cabecalho .container p{
+ 	color: white;
+ 	text-align: center;
+ 	
+ }
+
+
+
+/*fim cabeçalho*/
+
+
+div .mapa{
+	text-align: center;
+
+}
+
+div .contato{
+	text-align: center;
+}
+
+div .construindo{
+	text-align: center;
+}
+.google-maps {
+        position: relative;
+        padding-bottom: 75%; // This is the aspect ratio
+        height: 0;
+        overflow: hidden;
+    }
+    .google-maps iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100% !important;
+        height: 100% !important;
+    }
